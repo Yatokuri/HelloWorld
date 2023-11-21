@@ -16,7 +16,7 @@ public class Main {
     private static void exercise1() // From any user input surround the input with tags like <input>. Print the result
     {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter:");
+        System.out.println("Enter a new sentence:");
         String input = scanner.nextLine();
 
         System.out.println("<" + input + ">");
