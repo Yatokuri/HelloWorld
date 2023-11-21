@@ -4,13 +4,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
     {
-        //exercise1(); // Finished
-        //exercise2(); // Finished
-        //exercise3(); // Finished
-        //exercise4(); // Finished
-        //exercise5(); // Finished - spaces dont show up
-        //exercise6(); // Finished
-        //exercise7(); // Finished
+        exercise1(); // Finished
+        exercise2(); // Finished
+        exercise3(); // Finished
+        exercise4(); // Finished
+        exercise5(); // Finished - spaces dont show up
+        exercise6(); // Finished
+        exercise7(); // Finished
         //exercise8(); // Unfinished - Figure out detecting upper/lower case of prior letter
     }
     private static void exercise1() // From any user input surround the input with tags like <input>. Print the result
